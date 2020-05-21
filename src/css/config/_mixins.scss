@@ -4,4 +4,9 @@
   &.is-ready {
     opacity: 1;
   }
+};
+
+%flex-column{
+  display: flex;
+  flex-direction: column;
 }
